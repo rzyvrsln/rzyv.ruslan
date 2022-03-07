@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @rzyvrsln
-- 👀 I’m interested in programming
 - 🌱 I’m currently learning programming
