@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @rzyvrsln
-- 🌱 I’m software programmer
+
