@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @rzyvrsln
-- 🌱 I’m currently learning programming
+- 🌱 I’m software programmer
